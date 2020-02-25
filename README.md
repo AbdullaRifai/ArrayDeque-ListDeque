@@ -8,7 +8,7 @@ Instructions (Provided by the professor):
 
 - Complete the "blank" methods in file ArrayDeque.java. 
 ***
-I implemented this using the array structure (To summarize it is an implementation of a circular array ADT with the asked for functionality, such as: isEmpty(), size(), getFirst(), getLast(), insertFirst(), insertLast(), removeFirst() and removeLast()). 
+I implemented this using the array structure (To summarize it is an implementation of a circular array ADT with the request functionality, such as: isEmpty(), size(), getFirst(), getLast(), insertFirst(), insertLast(), removeFirst() and removeLast()). 
 > For specific details on the implementation it is the ArrayDeque.java file (it has comments to make things more clear)
 
 ## 2. Doubly linked lists with header and trailer dummy nodes (ListDeque.java file)
