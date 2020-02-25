@@ -28,6 +28,6 @@ Instructions:
 Implementation was similar to that of the ListDeque.java file but with the added challenge of the variable dummy nodes, I feel that having the dummy nodes can increase productivity since implementing the class without the dummy nodes took more time than implementing the class with the fixed dummy nodes.
 > For specific details on the implementation it is the AnotherListDeque.java file (it has comments to make things more clear)
 
-**In Conclusion**: I feel that implementing these classes helped me gain more insight into these respective data structures and how they work. As well as I learned that we cannot reach the most optimized solution at first glance, so implementing the brute force solution and optimizing where possible is a more productive approach. 
+**In Conclusion**: I feel that implementing these classes helped me gain more insight into these respective data structures and how they work. In addition, I learned that we cannot reach the most optimized solution at first glance, so implementing the brute force solution and optimizing where possible is a more productive approach. This also helped me learn to find corner cases while testing my code, general tests were provided to me but to achieve a full mark the professor instructed us to identify and test the corner cases ourselves. 
 
 Thank you for taking the time to read over my work! 
